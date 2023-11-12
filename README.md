@@ -1,3 +1,2 @@
 # Meus Projetos Faculdade
- Nesse ambiente colocarei meus projetos para conhecimento e desenvolvimento, e desenvolvimento da minha carreira como programador, a programação é futuro!
- 
+ Nesse ambiente colocarei meus projetos da faculdade de Análise de desenvolvimento de sistema, para poder assim medir minha evolçao no mundo da programação. 
